@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment1.params=a\ b\ c
+comment1.target=java.lang.String\ ecuacionCuadratica(int,\ int,\ int)
+comment2.params=p\ q
+comment2.target=java.lang.String\ ecuacionRecta(Punto,\ Punto)
+comment3.params=hipotenusa\ cateto
+comment3.target=double\ cateto(int,\ int)
+numComments=4

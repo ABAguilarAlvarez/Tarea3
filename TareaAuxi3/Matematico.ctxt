@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Matematico
+comment1.params=calculadora
+comment1.target=Matematico(Calculadora)
+comment2.params=cal
+comment2.target=void\ setCalculadora(Calculadora)
+comment3.params=a\ b
+comment3.target=java.lang.String\ ecuacionRec(Punto,\ Punto)
+comment4.params=a\ b\ c
+comment4.target=java.lang.String\ ecuacionCuadr(int,\ int,\ int)
+comment5.params=hip\ cat
+comment5.target=double\ calcularCateto(int,\ int)
+numComments=6
